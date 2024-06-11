@@ -1,5 +1,4 @@
 const menu = document.querySelector(".navbar-toggler i");
-
 menu.addEventListener("click", () => {
     menu.classList.toggle("fa-bars");
     menu.classList.toggle("fa-times");

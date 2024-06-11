@@ -145,11 +145,11 @@ main .container-fluid .btn:hover {
   body #project .container-fluid .bottom-row div .nav .not-displayed {
     display: none;
   }
-  body #project .container-fluid .bottom-row div .nav .show {
+  body #project .container-fluid .bottom-row div .nav .show-icon {
     display: block;
     background-color: #000;
   }
-  body #project .container-fluid .bottom-row div .nav .show:hover {
+  body #project .container-fluid .bottom-row div .nav .show-icon:hover {
     color: #5AE4A8;
   }
 }
@@ -174,11 +174,11 @@ main .container-fluid .btn:hover {
   body #project .container-fluid .bottom-row div .nav .not-displayed {
     display: none;
   }
-  body #project .container-fluid .bottom-row div .nav .show {
+  body #project .container-fluid .bottom-row div .nav .show-icon {
     display: block;
     background-color: #000;
   }
-  body #project .container-fluid .bottom-row div .nav .show:hover {
+  body #project .container-fluid .bottom-row div .nav .show-icon:hover {
     color: #5AE4A8;
   }
 }
@@ -196,7 +196,7 @@ main .container-fluid .btn:hover {
     box-shadow: 0 0 10px #5AE4A8;
     color: #000;
   }
-  body #project .container-fluid .bottom-row div .nav .show {
+  body #project .container-fluid .bottom-row div .nav .show-icon {
     display: none;
   }
 }
@@ -214,7 +214,7 @@ main .container-fluid .btn:hover {
     box-shadow: 0 0 10px #5AE4A8;
     color: #000;
   }
-  body #project .container-fluid .bottom-row div .nav .show {
+  body #project .container-fluid .bottom-row div .nav .show-icon {
     display: none;
   }
 }
@@ -233,7 +233,7 @@ main .container-fluid .btn:hover {
     box-shadow: 0 0 10px #5AE4A8;
     color: #000;
   }
-  body #project .container-fluid .bottom-row div .nav .show {
+  body #project .container-fluid .bottom-row div .nav .show-icon {
     display: none;
   }
 }/*# sourceMappingURL=style.css.map */

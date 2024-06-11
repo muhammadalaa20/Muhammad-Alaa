@@ -175,11 +175,11 @@ main{
                             .not-displayed{
                                 display: none;
                             }
-                            .show {
+                            .show-icon {
                                 display: block;
                                 background-color: #000;
                             }
-                            .show:hover{
+                            .show-icon:hover{
                                 color: #5AE4A8;
                             }
                         }
@@ -219,11 +219,11 @@ main{
                             .not-displayed{
                                 display: none;
                             }
-                            .show{
+                            .show-icon{
                                 display: block;
                                 background-color: #000;
                             }
-                            .show:hover{
+                            .show-icon:hover{
                                 color: #5AE4A8;
                             }
                         }
@@ -255,7 +255,7 @@ main{
                                 box-shadow: 0 0 10px #5AE4A8;
                                 color: #000;
                             }
-                            .show{
+                            .show-icon{
                                 display: none;
                             }
                         }
@@ -287,7 +287,7 @@ main{
                                 box-shadow: 0 0 10px #5AE4A8;
                                 color: #000;
                             }
-                            .show{
+                            .show-icon{
                                 display: none;
                             }
                         }
@@ -320,7 +320,7 @@ main{
                                 box-shadow: 0 0 10px #5AE4A8;
                                 color: #000;
                             }
-                            .show{
+                            .show-icon{
                                 display: none;
                             }
                         }
