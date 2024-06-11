@@ -159,10 +159,11 @@ main{
                         .nav{
                             .nav-item{
                                 transition: all 0.2s ease-in-out;
+                                i{
+                                    color: #fff;
+                                }
                             }
                             .nav-item:hover{
-                                font-size: 1.1rem;
-                                font-weight: bold;
                                 cursor: pointer;
                             }
                             .active{
@@ -176,6 +177,10 @@ main{
                             }
                             .show {
                                 display: block;
+                                background-color: #000;
+                            }
+                            .show:hover{
+                                color: #5AE4A8;
                             }
                         }
                     }
@@ -196,9 +201,12 @@ main{
                         .nav{
                             .nav-item{
                                 transition: all 0.2s ease-in-out;
+                                i{
+                                    color: #fff;
+                                }
                             }
+                            
                             .nav-item:hover{
-                                font-size: 1.1rem;
                                 font-weight: bold;
                                 cursor: pointer;
                             }
@@ -213,6 +221,10 @@ main{
                             }
                             .show{
                                 display: block;
+                                background-color: #000;
+                            }
+                            .show:hover{
+                                color: #5AE4A8;
                             }
                         }
                     }
@@ -235,7 +247,6 @@ main{
                                 transition: all 0.2s ease-in-out;
                             }
                             .nav-item:hover{
-                                font-size: 1.1rem;
                                 font-weight: bold;
                                 cursor: pointer;
                             }
@@ -268,7 +279,6 @@ main{
                                 transition: all 0.2s ease-in-out;
                             }
                             .nav-item:hover{
-                                font-size: 1.25rem;
                                 font-weight: bold;
                                 cursor: pointer;
                             }
@@ -302,7 +312,6 @@ main{
                                 cursor: pointer;
                             }
                             .nav-item:hover{
-                                font-size: 1.25rem;
                                 font-weight: bold;
                                 cursor: pointer;
                             }

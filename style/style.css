@@ -130,9 +130,10 @@ main .container-fluid .btn:hover {
   body #project .container-fluid .bottom-row div .nav .nav-item {
     transition: all 0.2s ease-in-out;
   }
+  body #project .container-fluid .bottom-row div .nav .nav-item i {
+    color: #fff;
+  }
   body #project .container-fluid .bottom-row div .nav .nav-item:hover {
-    font-size: 1.1rem;
-    font-weight: bold;
     cursor: pointer;
   }
   body #project .container-fluid .bottom-row div .nav .active {
@@ -146,6 +147,10 @@ main .container-fluid .btn:hover {
   }
   body #project .container-fluid .bottom-row div .nav .show {
     display: block;
+    background-color: #000;
+  }
+  body #project .container-fluid .bottom-row div .nav .show:hover {
+    color: #5AE4A8;
   }
 }
 /* Media Query for low resolution  Tablets, Ipads */
@@ -153,8 +158,10 @@ main .container-fluid .btn:hover {
   body #project .container-fluid .bottom-row div .nav .nav-item {
     transition: all 0.2s ease-in-out;
   }
+  body #project .container-fluid .bottom-row div .nav .nav-item i {
+    color: #fff;
+  }
   body #project .container-fluid .bottom-row div .nav .nav-item:hover {
-    font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
   }
@@ -169,6 +176,10 @@ main .container-fluid .btn:hover {
   }
   body #project .container-fluid .bottom-row div .nav .show {
     display: block;
+    background-color: #000;
+  }
+  body #project .container-fluid .bottom-row div .nav .show:hover {
+    color: #5AE4A8;
   }
 }
 /* Media Query for Tablets Ipads portrait mode */
@@ -177,7 +188,6 @@ main .container-fluid .btn:hover {
     transition: all 0.2s ease-in-out;
   }
   body #project .container-fluid .bottom-row div .nav .nav-item:hover {
-    font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
   }
@@ -196,7 +206,6 @@ main .container-fluid .btn:hover {
     transition: all 0.2s ease-in-out;
   }
   body #project .container-fluid .bottom-row div .nav .nav-item:hover {
-    font-size: 1.25rem;
     font-weight: bold;
     cursor: pointer;
   }
@@ -216,7 +225,6 @@ main .container-fluid .btn:hover {
     cursor: pointer;
   }
   body #project .container-fluid .bottom-row div .nav .nav-item:hover {
-    font-size: 1.25rem;
     font-weight: bold;
     cursor: pointer;
   }
